@@ -8,3 +8,4 @@ PR #3: Working toward silver tier!
 PR #4: Continuing the grind!
 PR #5: On the path to silver!
 PR #6: Progress continues!
+PR #7
